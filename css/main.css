@@ -1,0 +1,20 @@
+div {
+border: 0px red solid;
+display:block;
+width: 200vh;
+height: 30vh;
+margin: 3vh;
+box-sizing: border-box;
+text-align: left;
+background-color:#ffc107;
+}
+.box-none{
+  display: none;
+}
+.box-hidden{
+visibility: hidden;
+}
+.yoly{
+  background-color: #800;
+  color:white;
+}
